@@ -29,6 +29,7 @@ jobs:
         echo "URL_1=${{ secrets.URL_1 }}" >> $GITHUB_ENV
         echo "URL_2=${{ secrets.URL_2 }}" >> $GITHUB_ENV
         echo "URL_3=${{ secrets.URL_3 }}" >> $GITHUB_ENV
+        echo "URL_3=${{ secrets.URL_4 }}" >> $GITHUB_ENV
         echo "JK=${{ secrets.JK }}" >> $GITHUB_ENV
 
     - name: Run Python script
