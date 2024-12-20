@@ -17,6 +17,7 @@ headers = {'User-Agent': 'okhttp/3.15'}
 url1 = os.getenv("URL_1")
 url2 = os.getenv("URL_2")
 url3 = os.getenv("URL_3")
+url4 = os.getenv("URL_4")
 JK = os.getenv("JK", "false").lower() == "true"
 
 beijing_tz = pytz.timezone('Asia/Shanghai')
@@ -105,6 +106,38 @@ for index, url in enumerate(urls[:2]):
         print(f"请求失败: {url} - {e}")
         processed_contents[index] = ""
 
+url4_playlist = ""
+if url4:
+    try:
+        response = requests.get(url4, headers=headers)
+        response.raise_for_status()
+        url4_playlist = response.text
+        response.encoding = 'utf-8'
+        print(f"从 {url4} 获取到的内容长度: {len(url4_playlist)}")
+
+        pattern_url4 = r'💮戏曲频道,#genre#([\s\S]*?)💮综艺频道,#genre#'
+        match_url4 = re.search(pattern_url4, url4_playlist)
+
+        if match_url4:
+            url4_xiqu_content = match_url4.group(1)
+            print(f"提取到的戏曲频道内容：\n{url4_xiqu_content}")
+
+            # 去除 LR•IPV4 部分
+            url4_xiqu_content = re.sub(r'\$LR•IPV4[^\n]*', '', url4_xiqu_content)
+            url4_xiqu_content = url4_xiqu_content.strip()
+
+            if processed_contents[1]:
+                pattern_xiqu_url2 = r'(戏曲频道,#genre#[\s\S]*?)(💮|🔥|🐼|$)'
+                processed_contents[1] = re.sub(pattern_xiqu_url2, f"戏曲频道,#genre#\n{url4_xiqu_content}\n", processed_contents[1])
+
+            print(f"处理后的戏曲频道内容：\n{url4_xiqu_content}")
+        else:
+            print("未找到匹配的戏曲频道到综艺频道的内容。")
+
+    except requests.exceptions.RequestException as e:
+        print(f"请求失败: {url4} - {e}")
+        url4_playlist = ""
+        
 pattern_aktv = r'🔥AKTV恢复,#genre#'
 aktv_found_in_url1 = False
 
