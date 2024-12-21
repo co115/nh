@@ -21,9 +21,9 @@
 禁止传播,https://itv.yhtv.us.kg/douyin/600961044912$优格
 禁止传播,https://itv.yhtv.us.kg/douyin/647158781193$星南
 禁止传播,https://itv.yhtv.us.kg/douyin/665593513392$然而
-禁止传播,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/hy.php?id=960427$空伐
-禁止传播,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/hy.php?id=20988625$莫言
-喜剧电影,https://itv.yhtv.us.kg/douyu/4549169$橙記#https://www.goodiptv.club/douyu/4549169$橙記#http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/douyu.php?id=4549169$橙記
+禁止传播,http://itv.yhtv.us.kg/hy.php?id=960427$空伐
+禁止传播,http://itv.yhtv.us.kg/hy.php?id=20988625$莫言
+喜剧电影,https://itv.yhtv.us.kg/douyu/4549169$橙記#https://www.goodiptv.club/douyu/4549169$橙記#http://itv.yhtv.us.kg/douyu.php?id=4549169$橙記
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8
@@ -86,7 +86,7 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 岭南戏剧,http://219.159.194.172:8181/tsfile/live/1006_1.m3u8$『线路9』
 岭南戏剧,http://222.218.158.165:8181/tsfile/live/1006_1.m3u8$『线路10』
 动漫乐园,#genre#
-熊出没,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/yy.php?id=1354930977#http://vip.cj116vip.xyz:88/iptv/index15.m3u8#https://v9.dious.cc/20231013/Hrni6KFa/2000kb/hls/index.m3u8
+熊出没,http://itv.yhtv.us.kg/yy.php?id=1354930977#http://vip.cj116vip.xyz:88/iptv/index15.m3u8#https://v9.dious.cc/20231013/Hrni6KFa/2000kb/hls/index.m3u8
 汪汪队,http://vip.cj116vip.xyz:88/iptv/index13.m3u8
 小猪佩奇,http://vip.cj116vip.xyz:88/iptv/index9.m3u8
 超级飞侠,http://vip.cj116vip.xyz:88/iptv/index18.m3u8
@@ -94,4 +94,4 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 猫和老鼠,http://vip.cj116vip.xyz:88/iptv/index14.m3u8
 宝宝巴士,http://vip.cj116vip.xyz:88/iptv/index16.m3u8
 香肠派对,http://vip.cj116vip.xyz:88/iptv/index17.m3u8
-灌篮高手,http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/yy.php?id=1382735626
+灌篮高手,http://itv.yhtv.us.kg/yy.php?id=1382735626
