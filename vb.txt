@@ -49,6 +49,8 @@
         { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "🐹巧儿" },
         
         { "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "name": "🚀道长" },
+
+        { "url": "https://box.iqinu.com", "name": "🚀龙门" },
         
         { "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-SK.json", "name": "🐇圥忈" },
         
