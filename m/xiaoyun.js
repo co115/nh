@@ -516,7 +516,7 @@ module.exports = {
     author: 'Huibq',
     version: "0.3.0",
     appVersion: ">0.1.0-alpha.0",
-    srcUrl: "https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/m/xiaoyun.js",
+    srcUrl: "https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/m/xiaoyun.js",
     cacheControl: "no-store",
     hints: {
         importMusicSheet: [
