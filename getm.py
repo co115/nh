@@ -114,7 +114,7 @@ for index, url in enumerate(urls[:2]):
 
             if url == url2:
                 playlist = re.sub(r"更新\d{4}-\d{2}-\d{2},", f"更新{current_date_str},", playlist)
-                playlist = re.sub(r"(戏曲频道,#genre#)[\s\S]*?(?=(VIP|🔥|🐼|$))", r'\1' + url4_content, playlist)
+                playlist = re.sub(r"(戏曲频道,#genre#)[\s\S]*?(?=(动漫|VIP|🔥|🐼|$))", r'\1' + url4_content, playlist)
                 with open("zoo.txt", "w", encoding='utf-8') as file:
                     file.write(playlist)
                 
