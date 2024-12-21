@@ -580,7 +580,7 @@ module.exports = {
     },
     primaryKey: ["id", "copyrightId"],
     cacheControl: "cache",
-    srcUrl: "https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/m/xiaomi.js",
+    srcUrl: "https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/m/xiaomi.js",
     supportedSearchType: ["music", "album", "sheet", "artist", "lyric"],
     getMediaSource,
     async search(query, page, type) {
