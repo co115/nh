@@ -1,8 +1,8 @@
 { "urls":
     [
-        { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/b2.txt", "name": "🐼看电视" },
+        { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/b2.txt", "name": "🐼看电视" },
 
-        { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/b1.txt", "name": "🐼看电视吧" },
+        { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/b1.txt", "name": "🐼看电视吧" },
 
         { "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", "name": " 👨‍🌾短剧" },
 
@@ -28,11 +28,11 @@
 
         { "url": "http://39.101.135.137:8080", "name": "🐹小白龙" },
 
-        { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json", "name": "🐹其人之道🐹" },
+        { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json", "name": "🐹其人之道🐹" },
 
-        { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/gh.llkk.cc/main/ok.txt", "name": "🐼电视吧" },
+        { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ghgo.xyz/main/ok.txt", "name": "🐼电视吧" },
 
-        { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wagaga001/chenrui/main/ruiying_Built-in%20interfaces", "name": "🐹晨瑞" },
+        { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/wagaga001/chenrui/main/ruiying_Built-in%20interfaces", "name": "🐹晨瑞" },
 
         { "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json", "name": "🐹PG节奏熊猫" },
 
@@ -60,7 +60,7 @@
 
         { "url": "http://ztha.top/TVBox/thdjk.json", "name": "📛挺好" },
 
-        { "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "🐹微笑🐹" },
+        { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "🐹微笑🐹" },
 
         { "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json", "name": "🐹不良帅🐹" },
 
