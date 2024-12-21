@@ -347,7 +347,7 @@ async function importMusicSheet(urlLike) {
                     album_id: "0",
                     hash: song.hash,
                     id: 0,
-                    name: song.filename.replace(".mp3", ""),
+                    name: song.filename.替换(".mp3", ""),
                     page_id: 0,
                     type: "audio",
                 });
@@ -384,7 +384,7 @@ module.exports = {
     version: "0.3.0",
     author: 'Huibq',
     appVersion: ">0.1.0-alpha.0",
-    srcUrl: "https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/m/xiaogou.js",
+    srcUrl: "https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/m/xiaogou.js",
     cacheControl: "no-cache",
     description: "",
     primaryKey: ["id", "album_id", "album_audio_id"],
