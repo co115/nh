@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/vb.txt"},
-{"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/vc.txt"},
+{"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/vb.txt"},
+{"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/vc.txt"},
 {"sourceName":"🌺天微精选🌺","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
 {"sourceName":"☁️欧歌","sourceUrl":"https://xn--yod-mf3g9f.u.nxog.top/nxog/ou1.php?b=%E6%AC%A7%E6%AD%8Cyod"},
 {"sourceName":"☁️无界","sourceUrl":"https://www.无界.top/无界线路多仓版"},
