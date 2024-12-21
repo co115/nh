@@ -456,7 +456,7 @@ module.exports = {
     platform: "小秋音乐",
     author: "Huibq",
     version: "0.3.0",
-    srcUrl: "https://gh.llkk.cc/https://raw.githubusercontent.com/co115/nh/main/m/xiaoqiu.js",
+    srcUrl: "https://ghgo.xyz/https://raw.githubusercontent.com/co115/nh/main/m/xiaoqiu.js",
     cacheControl: "no-cache",
     hints: {
         importMusicSheet: [
