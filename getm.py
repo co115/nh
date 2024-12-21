@@ -99,7 +99,7 @@ for index, url in enumerate(urls[:2]):
             print(f"从 {url} 获取到的内容长度: {len(playlist)}")
 
             if url == url1:
-                playlist = re.sub(r'🐼电视公告[\s\S]*?(?=(VIP|🔥|🐼|$))', '', playlist)
+                playlist = re.sub(r'🐼电视公告[\s\S]*?(?=(🐼|$))', '', playlist)
                 playlist = re.sub(r'<script[\s\S]*?</script>', '', playlist)
                 playlist = re.sub(r'http://(43\.138\.0\.72|159\.75\.85\.63):35455/yy/', 'http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/yy.php?id=', playlist)
                 playlist = re.sub(r'http://(111\.67\.193\.2:35455/huya/|120\.77\.28\.4:8648/huya\.php\?id=)', 'http://5566.340171345.cn/更多直播源请关注公众号：小凯影视交流/hy.php?id=', playlist)
