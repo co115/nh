@@ -53,7 +53,6 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 更新2024-12-21,http://api.yujn.cn/api/juhexjj.php?type=video
 更新2024-12-21,http://api.yujn.cn/api/jiepai.php?type=video
 
-
 戏曲频道,#genre#
 梨园频道,http://114.105.184.92:9901/tsfile/live/1052_1.m3u8$『线路1』
 梨园频道,http://123.182.209.218:9901/tsfile/live/1014_1.m3u8$『线路4』
