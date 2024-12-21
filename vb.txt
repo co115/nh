@@ -22,6 +22,8 @@
 
         { "url": "https://fmbox.cc", "name": "🏄️星辰" },
 
+        { "url": "https://tvbox.catvod.com/catvod.json", "name": "🏄️catvod" },
+
         { "url": "https://9877.kstore.space/FourD/api.json", "name": "😎潇洒" },
 
         { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "🧚‍♀️游乐园" },
