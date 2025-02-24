@@ -1,0 +1,10 @@
+{
+"storeHouse": [
+{"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://haoyong.de/https://raw.githubusercontent.com/co115/nh/main/vb.txt"},
+{"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://haoyong.de/https://raw.githubusercontent.com/co115/nh/main/vc.txt"},
+{"sourceName":"🌺券票圈🌺","sourceUrl":"http://tv.apehn.com/xlb.json"},
+{"sourceName":"☁️苹果","sourceUrl":"http://zby.xjqxz.top/"},
+{"sourceName":"☁️盒子","sourceUrl":"https://tv.youdu.fan:666/"},
+{"sourceName":"☁️叶子","sourceUrl":"http://ee.nihaohezi.com/yz2.php"}
+]
+}
