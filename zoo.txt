@@ -53,12 +53,12 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 法治在线,http://zby.xjqxz.top/fzzx/live.m3u8
 天网,http://zby.xjqxz.top/tw/live.m3u8
 探索发现,http://zby.xjqxz.top/tsfx/live.m3u8
-更新2025-03-05,https://api.lq.mba/api/dm-xjj
-更新2025-03-05,https://v2.xxapi.cn/api/meinv?return=302
-更新2025-03-05,https://api.magisk.icu/API/videos.php
-更新2025-03-05,https://api.yuafeng.cn/API/ly/cqng.php
-更新2025-03-05,https://api.yuafeng.cn/API/ly/yzxl.php
-更新2025-03-05,https://api.yuafeng.cn/API/ly/sjxl.php
+更新2025-03-06,https://api.lq.mba/api/dm-xjj
+更新2025-03-06,https://v2.xxapi.cn/api/meinv?return=302
+更新2025-03-06,https://api.magisk.icu/API/videos.php
+更新2025-03-06,https://api.yuafeng.cn/API/ly/cqng.php
+更新2025-03-06,https://api.yuafeng.cn/API/ly/yzxl.php
+更新2025-03-06,https://api.yuafeng.cn/API/ly/sjxl.php
 
 数字频道,#genre#
 NewTV古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
