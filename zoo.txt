@@ -50,12 +50,12 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
 龙华戏剧,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
-更新2025-03-29,https://api.lq.mba/api/dm-xjj
-更新2025-03-29,https://v2.xxapi.cn/api/meinv?return=302
-更新2025-03-29,https://api.magisk.icu/API/videos.php
-更新2025-03-29,https://api.yuafeng.cn/API/ly/cqng.php
-更新2025-03-29,https://api.yuafeng.cn/API/ly/yzxl.php
-更新2025-03-29,https://api.yuafeng.cn/API/ly/sjxl.php
+更新2025-03-30,https://api.lq.mba/api/dm-xjj
+更新2025-03-30,https://v2.xxapi.cn/api/meinv?return=302
+更新2025-03-30,https://api.magisk.icu/API/videos.php
+更新2025-03-30,https://api.yuafeng.cn/API/ly/cqng.php
+更新2025-03-30,https://api.yuafeng.cn/API/ly/yzxl.php
+更新2025-03-30,https://api.yuafeng.cn/API/ly/sjxl.php
 
 数字频道,#genre#
 NewTV古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
