@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
+"spider":"./jar/fan.txt;md5;44e99542b9a58cfdf064c595268980fb",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
