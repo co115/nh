@@ -1,7 +1,7 @@
 {
-  "spider": "./jar/hb.jar;md5;b563a5861777633f5d2d7a9777328e27",
-  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
-  "warningText": "待到秋来九月八 我花开后百花杀",
+  "spider":"./jar/hb.jar;md5;b563a5861777633f5d2d7a9777328e27",
+  "wallpaper":"https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
+  "warningText":"待到秋来九月八 我花开后百花杀",
   "lives": [
     {
       "name": "LIVE",
@@ -965,12 +965,12 @@
           "category": 1,
           "name": "fflags",
           "value": "fastseek"
-        }，
+        },
         {
           "category": 2,
           "name": "skip_loop_filter",
           "value": "48"
-        }，
+        },
         {
           "category": 4,
           "name": "reconnect",
@@ -980,12 +980,12 @@
           "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec",
           "value": "1"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-auto-rotate",
@@ -995,7 +995,7 @@
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "1"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-hevc",
