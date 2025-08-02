@@ -21,10 +21,16 @@
     },
     {
       "key": "drpy_js_豆瓣",
-      "name": "豆瓣热播",
+      "name": "导航|小虎斑的口粮",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
+    },
+    {
+      "key": "提醒",
+      "api": "csp_Douban2",
+      "name": "仅用作学习交流使用，请于24小时之内进行清除",
+      "type": 3
     },
     {
       "key": "测试",
@@ -956,10 +962,10 @@
           "value": "0"
         },
         {
-          "category": 1，
-          "name": "fflags"，
+          "category": 1,
+          "name": "fflags",
           "value": "fastseek"
-        },
+        }，
         {
           "category": 2,
           "name": "skip_loop_filter",
@@ -971,25 +977,25 @@
           "value": "1"
         },
         {
-          "category": 4，
-          "name": "enable-accurate-seek"，
+          "category": 4,
+          "name": "enable-accurate-seek",
           "value": "0"
         }，
         {
-          "category": 4，
-          "name": "mediacodec"，
+          "category": 4,
+          "name": "mediacodec",
           "value": "1"
         }，
         {
-          "category": 4，
+          "category": 4,
           "name": "mediacodec-auto-rotate",
           "value": "1"
-        }，
+        },
         {
-          "category": 4，
+          "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "1"
-        },
+        }，
         {
           "category": 4,
           "name": "mediacodec-hevc",
