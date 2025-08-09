@@ -101,29 +101,29 @@ try:
         "大陆综艺"，
         "国产剧",
         "香港剧",
-        "爽文短剧"，
+        "爽文短剧",
         "喜剧片",
         "国产动漫"
       ]
         }
         new_site2 = {
-            "key": "Wexwwe",
+            "key": "Wexwwe"，
             "name": "🏝WWE┃1080P",
             "type": 3,
-            "api": "csp_WexwweGuard"，
+            "api": "csp_WexwweGuard",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jar/wex.png;md5;a0c53fe978b5b739b8ae18a81d3ef5f1"
         }
         
         data["sites"]。insert(1, new_site)
-        data["sites"].insert(2, new_site1)
-        data["sites"]。insert(3, new_site2)
+        data["sites"]。insert(2, new_site1)
+        data["sites"].insert(3, new_site2)
 
     else:
         print('"sites" 键不在数据中')
 
-    keys_to_remove = ["豆豆","警示"，"config","csp_Netfixtv","csp_Netfixtv2","csp_Wogg","csp_Duopan","csp_UC","csp_XiaoYi","csp_MiSou","荐片"]
+    keys_to_remove = ["豆豆","警示","config","csp_Netfixtv","csp_Netfixtv2","csp_Wogg","csp_Duopan","csp_UC","csp_XiaoYi","csp_MiSou","荐片"]
     data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
     
     modified_content = json.dumps(data, indent=2, ensure_ascii=False)
