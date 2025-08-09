@@ -100,7 +100,7 @@ try:
         else:
             print('"sites" 键不在数据中')
 
-        keys_to_remove = ["玩偶","YGP","抠搜","UC","贱贱","新6V","PanSso","YpanSo","xzso","米搜","夸搜","Aliso","YiSo","wx","fan"]
+        keys_to_remove = ["玩偶","YGP","抠搜","UC","贱贱","新6V","PanSso","YpanSo","xzso","米搜","夸搜","Aliso","YiSo","wx","fan","seed","荐片"]
         data["sites"] = [site for site in data["sites"] if site.get("key") not in keys_to_remove]
         
         modified_content = json.dumps(data, indent=2, ensure_ascii=False)
