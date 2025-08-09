@@ -98,7 +98,7 @@ try:
             "searchable": 1,
             "changeable": 1,
             "categories": [
-        "大陆综艺"，
+        "大陆综艺",
         "国产剧",
         "香港剧",
         "爽文短剧",
