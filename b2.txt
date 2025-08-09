@@ -44,7 +44,7 @@
       "api": "csp_WexwweGuard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "./jar/wex.png;md5;2ec9736c412884a87906c6f263f9d4e2"
+      "jar": "./jar/wex.png;md5;a0c53fe978b5b739b8ae18a81d3ef5f1"
     },
     {
       "key": "csp_Bili",
