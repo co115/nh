@@ -98,7 +98,7 @@ try:
             "searchable": 1,
             "changeable": 1,
             "categories": [
-        "大陆综艺"，
+        "大陆综艺",
         "国产剧",
         "香港剧",
         "爽文短剧",
@@ -107,7 +107,7 @@ try:
       ]
         }
         new_site2 = {
-            "key": "Wexwwe"，
+            "key": "Wexwwe",
             "name": "🏝WWE┃1080P",
             "type": 3,
             "api": "csp_WexwweGuard",
@@ -116,8 +116,8 @@ try:
             "jar": "./jar/wex.png;md5;a0c53fe978b5b739b8ae18a81d3ef5f1"
         }
         
-        data["sites"]。insert(1, new_site)
-        data["sites"]。insert(2, new_site1)
+        data["sites"].insert(1, new_site)
+        data["sites"].insert(2, new_site1)
         data["sites"].insert(3, new_site2)
 
     else:
