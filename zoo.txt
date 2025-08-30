@@ -64,12 +64,12 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
 龙华戏剧,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
-更新2025-08-30,https://api.kuleu.com/api/MP4_xiaojiejie
-更新2025-08-30,https://v2.xxapi.cn/api/meinv?return=302
-更新2025-08-30,https://api.magisk.icu/API/videos.php
-更新2025-08-30,https://api.yuafeng.cn/API/ly/cqng.php
-更新2025-08-30,https://api.yuafeng.cn/API/ly/yzxl.php
-更新2025-08-30,https://api.yuafeng.cn/API/ly/sjxl.php
+更新2025-08-31,https://api.kuleu.com/api/MP4_xiaojiejie
+更新2025-08-31,https://v2.xxapi.cn/api/meinv?return=302
+更新2025-08-31,https://api.magisk.icu/API/videos.php
+更新2025-08-31,https://api.yuafeng.cn/API/ly/cqng.php
+更新2025-08-31,https://api.yuafeng.cn/API/ly/yzxl.php
+更新2025-08-31,https://api.yuafeng.cn/API/ly/sjxl.php
 
 电影专区,#genre#
 家庭剧场,http://106.53.99.30/tv/gitv.php?id=0001
