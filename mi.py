@@ -83,12 +83,22 @@ try:
 
         new_site = {
             "key": "shan",
-            "name": "🧙闪电┃1080P",
+            "name": "📺闪电┃1080P",
             "type": 1,
             "api": "http://sdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "categories": [
+            "国产剧",
+            "大陆综艺",
+            "海外剧",
+            "港剧",
+            "有声动漫",
+            "写真热舞",
+            "国产动漫",
+            "动画片"
+      ]
         }
         new_site1 = {
             "key": "ikun",
