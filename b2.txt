@@ -7,18 +7,10 @@
       "key": "shan",
       "name": "🧙闪电┃1080P",
       "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "大陆综艺",
-        "香港剧",
-        "短剧大全",
-        "福利",
-        "国产动漫"
-      ]
+      "changeable": 1
     },
     {
       "key": "ikun",
