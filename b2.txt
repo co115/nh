@@ -4,6 +4,17 @@
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "sites": [
     {
+      "key": "nm",
+      "name": "📺看电视吧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/nm.json"
+      "jar": "https://7337.kstore.space/kjtv/tvkj.jar"
+    },
+    {
       "key": "shan",
       "name": "🧙闪电┃1080P",
       "type": 1,
