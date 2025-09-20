@@ -60,7 +60,7 @@ try:
         {
             "name": "NOW",
             "type": 0,
-            "url": "https://gh.catmak.name/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
+            "url": "https://gh.catmak.name/https://raw.githubusercontent.com/JohnnyW820/IPTV/refs/heads/main/my-iptv.txt",
             "playerType": 1
         },
         {
