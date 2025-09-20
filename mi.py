@@ -113,7 +113,7 @@ try:
             "api": "csp_WexwweGuard",
             "searchable": 0,
             "changeable": 0,
-            "jar": "./jar/wex.png;md5;5b04a874672be8cd69a18ef54259e657"
+            "jar": "./jar/wex.png;md5;4b1f5223aa26cc9489d0b481d708d278"
         }
         
         data["sites"].insert(1, new_site)
