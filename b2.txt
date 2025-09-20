@@ -11,7 +11,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./json/nm.json"
+      "ext": "./json/nm.json",
       "jar": "https://7337.kstore.space/kjtv/tvkj.jar"
     },
     {
