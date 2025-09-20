@@ -10,7 +10,15 @@
       "api": "https://api.yzzy-api.com/inc/apijson.php?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "大陆综艺",
+        "香港剧",
+        "短剧大全",
+        "福利",
+        "国产动漫"
+      ]
     },
     {
       "key": "ikun",
