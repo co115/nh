@@ -11,8 +11,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "jar": "https://7337.kstore.space/kjtv/tvkj.jar",
       "ext": "./json/nm.json",
-      "jar": "https://7337.kstore.space/kjtv/tvkj.jar"
     },
     {
       "key": "shan",
