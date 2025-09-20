@@ -83,7 +83,7 @@ try:
 
         new_site = {
             "key": "shan",
-            "name": "📺闪电┃1080P",
+            "name": "🍊闪电┃影视",
             "type": 1,
             "api": "http://sdzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -102,7 +102,7 @@ try:
         }
         new_site1 = {
             "key": "ikun",
-            "name": "🦢爱坤┃1080P",
+            "name": "🦢爱坤┃影视",
             "type": 1,
             "api": "https://ikzy7.com/api.php/provide/vod?",
             "searchable": 1,
@@ -118,7 +118,7 @@ try:
         }
         new_site2 = {
             "key": "Wexwwe",
-            "name": "🏝WWE┃1080P",
+            "name": "🏝WWE┃娱乐",
             "type": 3,
             "api": "csp_WexwweGuard",
             "searchable": 0,
