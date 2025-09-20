@@ -7,7 +7,7 @@
       "key": "shan",
       "name": "🧙闪电┃1080P",
       "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
