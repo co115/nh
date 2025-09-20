@@ -86,7 +86,7 @@ try:
             "name": "🍊闪电┃影视",
             "type": 1,
             "api": "http://sdzyapi.com/api.php/provide/vod/",
-            "danmu":true,
+            "ext":{"danmu":true},
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -106,7 +106,7 @@ try:
             "name": "🦢爱坤┃影视",
             "type": 1,
             "api": "https://ikzy7.com/api.php/provide/vod?",
-            "danmu":true,
+            "ext":{"danmu":true},
             "searchable": 1,
             "changeable": 1,
             "categories": [
