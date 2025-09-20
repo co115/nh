@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "shan",
-      "name": "🧙闪电┃1080P",
+      "name": "📺闪电┃1080P",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
