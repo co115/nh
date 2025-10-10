@@ -1,0 +1,10 @@
+{
+"storeHouse": [
+{"sourceName":"🌸全网主力仓库🌸","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/co115/nh/main/v1.txt"},
+{"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/co115/nh/main/v2.txt"},
+{"sourceName":"🌺券票圈🌺","sourceUrl":"http://tv.apehn.com/xlb.json"},
+{"sourceName":"☁️优选仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"☁️公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
+{"sourceName":"☁️聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"}
+]
+}
