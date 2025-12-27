@@ -2,19 +2,19 @@
 
 央视频道, #genre#
 CCTV-1 综合, http://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8
-CCTV-2 财经, https://play.kankanlive.com/live/1698234898628961.m3u8
-CCTV-3 综艺, http://112.27.235.94:8000/hls/3/index.m3u8
+CCTV-2 财经, https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+CCTV-3 综艺, http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV-4 中文国际, https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5 体育, https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-CCTV-5+ 体育赛事, https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+CCTV-5 体育, http://120.76.248.139/live/bfgd/4200000064.m3u8
+CCTV-5+ 体育赛事, http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV-6 电影, http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 CCTV-7 国防军事, https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 CCTV-8 电视剧, http://112.27.235.94:8000/hls/9/index.m3u8
-CCTV-9 纪录, https://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV-9 纪录, https://v4-681c4e93f62c2089d39b368c6a1858bd.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2f3dfdd11f0257feea0a1c77aad2998c
 CCTV-10 科教, https://play.kankanlive.com/live/1698423445959919.m3u8
-CCTV-11 戏曲, https://play.kankanlive.com/live/1698423476198918.m3u8
-CCTV-12 社会与法, https://play.kankanlive.com/live/1698423511884917.m3u8
-CCTV-13 新闻, https://play.kankanlive.com/live/1698423543275916.m3u8
+CCTV-11 戏曲, http://112.46.105.20:8009/hls/11/index.m3u8
+CCTV-12 社会与法, http://112.27.235.94:8000/hls/13/index.m3u8
+CCTV-13 新闻, http://112.46.105.20:8009/hls/13/index.m3u8
 CCTV-14 少儿, http://112.46.105.20:8009/hls/14/index.m3u8
 CCTV-15 音乐, https://play.kankanlive.com/live/1698423607826914.m3u8
 CCTV-17 农业农村, https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
