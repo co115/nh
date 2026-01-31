@@ -1,5 +1,5 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2026/01/26/19a68532f9cc373fb51fb4e3e7283c7f.jpg;md5;dcf87c6876047e7d41ce0b45a6b176e5",
+  "spider": "https://oss4liview.moji.com/thd_file/2026/02/01/bc9aed283b58f733db7b65b272ab04ad.jpg;md5;58149e856fa117ba01d13b0b5de47bd4",
   "wallpaper": "https://yydsys.top/bg.php",
   "sites": [
     {
