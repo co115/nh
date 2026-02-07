@@ -73,13 +73,11 @@
       "api": "./json/yky.py"
     },
     {
-      "key": "天天",
-      "name": "💯秒播┃1080-4",
+      "key": "Jianguo",
+      "name": "🚀小米┃1080-1",
       "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "csp_AppRJ",
-      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
+      "api": "csp_AppJg",
+      "ext": "http://m.bffree.cn"
     },
     {
       "key": "麻雀",
@@ -120,27 +118,6 @@
       "playerType": 2,
       "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    },
-    {
-      "key": "mino4k",
-      "name": "🚀小米┃1080-1",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": "http://ld.ldysapp.cn|7f8617d03203745a|2.2.3|26|com.mjyx.jhxq"
-    },
-    {
-      "key": "追忆",
-      "name": "🚀小米┃1080-2",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": "http://110.42.37.69:8080|7f8617d03203745a|2.0.0|20|com.recall.app|EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71"
-    },
-    {
-      "key": "星影",
-      "name": "🚀小米┃1080-3",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": "http://110.81.153.7:8081|5586733d1ddb0b46|1.3.8"
     },
     {
       "key": "QD4K",
