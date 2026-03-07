@@ -491,7 +491,8 @@
   ],
   "logo": "./jar/logo.gif",
   "hosts": [
-    "img1.wsyzy.org=danmu.888484.xyz"
+    "img1.wsyzy.org=danmu.888484.xyz",
+    "fiizvfck.top=danmu.888484.xyz"
   ],
   "lives": [
     {
