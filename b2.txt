@@ -61,7 +61,7 @@
       "api": "csp_WexwweGuard",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1773846486022aKvc4U.txt;md5;c4b5c5a8ffbc82c628e0c049ebc04513"
+      "jar": "https://aisearch.cdn.bcebos.com/fileManager/pzB7vSo_ZKMdkLpEH2KJFw/1774107901899dezBx_.txt;md5;64bc08e933ba318fa9f33ee297064f3b"
     },
     {
       "key": "ysdq",
