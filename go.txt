@@ -1,0 +1,11 @@
+{
+"spider":"./jar/fan.txt;md5;1acb683fd1fb4f2c0492747745f6229a",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+
+"sites":[
+{"key":"豆","name":"📺电视吧","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0}
+],
+"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+"lives":[
+{"name":"V4-develop202","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2}]
+}
