@@ -4,6 +4,7 @@
 {"sourceName":"🎀全网精选仓库🎀","sourceUrl":"https://gh-proxy.org/https://raw.githubusercontent.com/co115/nh/main/v2.txt"},
 {"sourceName":"🌺券票圈🌺","sourceUrl":"http://tv.apehn.com/xlb.json"},
 {"sourceName":"☁️可乐仓","sourceUrl":"https://tvbox.zpd.dpdns.org/"},
+{"sourceName":"☁️iyouhun","sourceUrl":"https://www.iyouhun.com/tv/dc"},
 {"sourceName":"☁️无界仓","sourceUrl":"https://www.xn--rgv465a.top/fine.json"}
 ]
 }
