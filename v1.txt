@@ -4,6 +4,8 @@
 
         { "url": "www.y456y.com", "name": "🐼摸鱼" },
 
+        { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/gqzh568/tvbox/refs/heads/main/tvbox.json", "name": "🐼gqzh568" },
+
         { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bear532/tvbox/refs/heads/main/s523.txt", "name": "🐼bear532" },
 
         { "url": "https://9877.kstore.space/sun.json", "name": "😎潇洒" },
