@@ -8,9 +8,9 @@
 
         { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bear532/tvbox/refs/heads/main/s523.txt", "name": "🐼bear532" },
 
-        { "url": "https://www.iyouhun.com/tv/wex"", "name": "🐼iyouhun" },
+        { "url": "https://www.iyouhun.com/tv/wex", "name": "🐼iyouhun" },
 
-        { "url": "http://550.3vcn.work/wdjyys.json"", "name": "🐼金鹰" },
+        { "url": "http://550.3vcn.work/wdjyys.json", "name": "🐼金鹰" },
 
         { "url": "https://9877.kstore.space/sun.json", "name": "😎潇洒" },
 
